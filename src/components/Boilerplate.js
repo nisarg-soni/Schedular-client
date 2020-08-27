@@ -41,7 +41,7 @@ export default function Boilerplate(props) {
               to="/"
               className={classes.a}
             >
-              Meeting Scheduler
+              Interview Scheduler
             </Typography>
           </Toolbar>
         </AppBar>
